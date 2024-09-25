@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.ec313818.css",
-    "main.js": "/react-gh-pages/static/js/main.60eb60aa.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.ec313818.css.map": "/react-gh-pages/static/css/main.ec313818.css.map",
-    "main.60eb60aa.js.map": "/react-gh-pages/static/js/main.60eb60aa.js.map"
+    "main.css": "/Pizza-menu/static/css/main.ec313818.css",
+    "main.js": "/Pizza-menu/static/js/main.60eb60aa.js",
+    "index.html": "/Pizza-menu/index.html",
+    "main.ec313818.css.map": "/Pizza-menu/static/css/main.ec313818.css.map",
+    "main.60eb60aa.js.map": "/Pizza-menu/static/js/main.60eb60aa.js.map"
   },
   "entrypoints": [
     "static/css/main.ec313818.css",
